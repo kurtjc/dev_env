@@ -16,6 +16,7 @@ conda install caffe2 --use-local
 
 Notice
 * do this (especially the 'conda install ...') OUTSIDE of the created env
+* You can also follow the "Custom Anaconda Install" steps, but remember to add PYTHONPATH in .bash_profile !!! (See "Troubleshooting" in the same page)
 
 ---
 
