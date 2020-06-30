@@ -5,6 +5,8 @@ Different libraries (tensorflow, pytorch, etc.) might rely on different versions
 
 ### CUDA
 
+Follow https://www.tensorflow.org/install/gpu#windows_setup
+
 Assuming CUDA 9.0, CUDNN 7.0
 
 * Install visual studio 2017 with visual c++ 2015
